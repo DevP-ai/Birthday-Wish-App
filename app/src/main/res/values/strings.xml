@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wish</string>
+    <string name="create_card">Create Card</string>
+    <string name="namehint">Name Of the Person</string>
+    <string name="txtview">Enter The Person Name</string>
+    <string name="happy">Happy Birth Day</string>
+    <string name="version">Version 1.0.0 - Developed By Devajit</string>
+</resources>
